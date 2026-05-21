@@ -29,7 +29,7 @@ POSSIBILITY OF SUCH DAMAGE.
 """
 
 #----------------------------------------
-# Create a Dragon_Julia Fractal
+# Create a Stars_Julia Fractal
 # 
 #----------------------------------------
 # Author : Marco Campolo 2026/05/20
