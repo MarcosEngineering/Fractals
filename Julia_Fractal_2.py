@@ -104,7 +104,7 @@ def generate_classic_julia():
     plt.axis('off')
     plt.tight_layout()
     
-    filename = 'julia_set_2.png'
+    filename = 'julia_set_2.pdf'
     plt.savefig(filename, bbox_inches='tight', pad_inches=0.0, dpi=300)
     print(f"Success! Check your folder for '{filename}'.")
     plt.show()
