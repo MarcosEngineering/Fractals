@@ -30,7 +30,6 @@ POSSIBILITY OF SUCH DAMAGE.
 
 #----------------------------------------
 # Create a graph with MandelBrot Fractal
-# standard and Poor graph comparison
 # 
 #----------------------------------------
 # Author : Marco Campolo 2026/05/16
