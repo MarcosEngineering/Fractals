@@ -43,11 +43,11 @@ def generate_dragon_zoom():
     print("Initializing Dragon Julia zoom sequence...")
     
     # --- Zoom Configuration ---
-    num_frames = 50
+    num_frames = 200
     zoom_factor = 0.85  # 1.0 = no zoom. Lower = faster zoom per frame.
      
-    center_x = 0.250
-    center_y = 0.020
+    center_x = 0.257555
+    center_y = 0.03454998986
 
     # Base boundaries (Frame 0)
     base_width = 3.0   # From -1.5 to +1.5
@@ -55,7 +55,7 @@ def generate_dragon_zoom():
 
     # --- Fractal Parameters ---
     c = -0.54 + 0.54j
-    N = 800             
+    N = 5000             
     max_iter = 500      
     escape_radius = 50.0 
     
